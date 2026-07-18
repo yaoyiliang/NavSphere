@@ -1042,49 +1042,6 @@
       "enabled": true
     },
     {
-      "id": "1760512235168",
-      "title": "开源项目",
-      "icon": "Code",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "c58e0eb7-8d56-46cc-a00e-841e07500066",
-          "title": "文档工具",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760512389014",
-              "title": "Docusaurus",
-              "href": "https://docusaurus.io/",
-              "description": "Build optimized websites quickly, focus on your content.",
-              "icon": "/assets/favicon_1760512394163.webp",
-              "enabled": true
-            },
-            {
-              "id": "1760512493923",
-              "title": "VuePress",
-              "href": "https://vuepress.vuejs.org/",
-              "description": "Vue 驱动的静态网站生成器",
-              "icon": "/assets/favicon_1760512644195.webp",
-              "enabled": true
-            },
-            {
-              "id": "1765310098728",
-              "title": "mdBook Documentation",
-              "href": "https://rust-lang.github.io/mdBook/index.html",
-              "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
-              "icon": "/assets/img_1765686772245.webp",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1760610695230",
       "title": "投资者工具包",
       "icon": "Building",
@@ -1162,6 +1119,49 @@
               "href": "https://palmmicro.com/woody/res/chinafuturecn.php",
               "description": "A股商品等基金净值计算工具",
               "icon": "/assets/favicon_1760611626932.webp",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1760512235168",
+      "title": "开源项目",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "c58e0eb7-8d56-46cc-a00e-841e07500066",
+          "title": "文档工具",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760512389014",
+              "title": "Docusaurus",
+              "href": "https://docusaurus.io/",
+              "description": "Build optimized websites quickly, focus on your content.",
+              "icon": "/assets/favicon_1760512394163.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760512493923",
+              "title": "VuePress",
+              "href": "https://vuepress.vuejs.org/",
+              "description": "Vue 驱动的静态网站生成器",
+              "icon": "/assets/favicon_1760512644195.webp",
+              "enabled": true
+            },
+            {
+              "id": "1765310098728",
+              "title": "mdBook Documentation",
+              "href": "https://rust-lang.github.io/mdBook/index.html",
+              "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+              "icon": "/assets/img_1765686772245.webp",
               "enabled": true
             }
           ]
