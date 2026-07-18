@@ -866,7 +866,7 @@
       "title": "投资者工具包",
       "icon": "Building",
       "description": "",
-      "enabled": true,
+      "enabled": false,
       "items": [],
       "subCategories": [
         {
