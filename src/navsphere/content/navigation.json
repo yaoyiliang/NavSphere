@@ -116,9 +116,9 @@
     },
     {
       "id": "1784470309621",
-      "title": "NAS服务",
+      "title": "自建服务",
       "icon": "Briefcase",
-      "description": "YYLang的飞牛",
+      "description": "YYLang的自建服务",
       "enabled": true,
       "items": [
         {
