@@ -173,6 +173,15 @@
               "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/substore.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1784472983767",
+              "title": "1Panel",
+              "href": "http://4.194.42.185:30430/a024fd40a0",
+              "description": "Azure SG部署的1Panel",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/1panel-1.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
