@@ -217,6 +217,15 @@
               "enabled": true
             },
             {
+              "id": "1784469681959",
+              "title": "Kimi AI",
+              "href": "https://kimi.moonshot.cn/",
+              "description": "全新 Kimi K3 现已上线：构建可玩的多人与3D游戏，生成咨询级PPT，用 Swarm 智能体集群与 Goal 模式并行执行任务，知识工作更高效。",
+              "icon": "/assets/favicon_1784469696333.ico",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
               "id": "item-1764762513556",
               "enabled": true,
               "title": "Google AI Studio",
@@ -230,15 +239,6 @@
               "href": "https://poe.com/",
               "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
               "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
-              "id": "1784469681959",
-              "title": "Kimi AI",
-              "href": "https://kimi.moonshot.cn/",
-              "description": "全新 Kimi K3 现已上线：构建可玩的多人与3D游戏，生成咨询级PPT，用 Swarm 智能体集群与 Goal 模式并行执行任务，知识工作更高效。",
-              "icon": "/assets/favicon_1784469696333.ico",
-              "useDefaultIcon": false,
               "enabled": true
             }
           ]
