@@ -209,20 +209,20 @@
               "enabled": true
             },
             {
-              "id": "1759046285125",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.webp",
-              "enabled": true
-            },
-            {
               "id": "1784469681959",
               "title": "Kimi AI",
               "href": "https://kimi.moonshot.cn/",
               "description": "全新 Kimi K3 现已上线：构建可玩的多人与3D游戏，生成咨询级PPT，用 Swarm 智能体集群与 Goal 模式并行执行任务，知识工作更高效。",
               "icon": "/assets/favicon_1784469696333.ico",
               "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1759046285125",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
+              "icon": "/assets/favicon_1759046289851.webp",
               "enabled": true
             },
             {
