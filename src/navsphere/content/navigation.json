@@ -200,6 +200,15 @@
               "enabled": true
             },
             {
+              "id": "1784469802269",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "Seedance 2.0 视频生成模型现已全面接入豆包，现在登录即可免费使用！豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/doubao-1.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
               "id": "1784465512708",
               "title": "Deepseek",
               "href": "https://chat.deepseek.com/",
@@ -239,15 +248,6 @@
               "href": "https://poe.com/",
               "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
               "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
-              "id": "1784469802269",
-              "title": "豆包",
-              "href": "https://www.doubao.com/chat/",
-              "description": "Seedance 2.0 视频生成模型现已全面接入豆包，现在登录即可免费使用！豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题",
-              "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/doubao-1.png",
-              "useDefaultIcon": false,
               "enabled": true
             }
           ]
