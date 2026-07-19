@@ -1667,6 +1667,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1784473536097",
+      "title": "影音娱乐",
+      "icon": "Video",
+      "description": "影音娱乐相关",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
