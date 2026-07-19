@@ -129,6 +129,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/feiniu-fnos-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784470419135",
+          "title": "Lucky",
+          "href": "https://fn.560906.xyz:16601/yylang_ph",
+          "description": "YYLang的飞牛上部署的Lucky",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fn.560906.xyz",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
