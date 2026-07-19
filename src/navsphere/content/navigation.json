@@ -204,7 +204,7 @@
               "title": "Deepseek",
               "href": "https://chat.deepseek.com/",
               "description": "Deepseek",
-              "icon": "/assets/favicon_1784465533524.png",
+              "icon": "https://raw.githubusercontent.com/xushier/HD-Icons/main/svg/deepseek-1.svg",
               "useDefaultIcon": false,
               "enabled": true
             },
