@@ -157,6 +157,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "de8cf3a6-59f9-408d-947a-38e30177f4cc",
+          "title": "VPS服务",
+          "icon": "Box",
+          "description": "VPS服务器上部署的各种服务",
+          "enabled": true,
+          "items": []
         }
       ]
     },
