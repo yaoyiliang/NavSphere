@@ -182,6 +182,15 @@
               "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/1panel-1.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1784473060669",
+              "title": "E5 Renew",
+              "href": "http://4.194.42.185:1066/",
+              "description": "Azure SG部署的E5续签服务",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/azure-1.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
