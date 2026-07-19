@@ -200,6 +200,15 @@
               "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/azure-1.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1784473275294",
+              "title": "SubBoost - Clash 订阅转换与管理服务",
+              "href": "https://subboost.560906.xyz/",
+              "description": "Azure SG部署的SubBoost - Clash 订阅转换与管理服务",
+              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/Subboost.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
