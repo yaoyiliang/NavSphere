@@ -213,7 +213,7 @@
               "title": "Kimi AI",
               "href": "https://kimi.moonshot.cn/",
               "description": "全新 Kimi K3 现已上线：构建可玩的多人与3D游戏，生成咨询级PPT，用 Swarm 智能体集群与 Goal 模式并行执行任务，知识工作更高效。",
-              "icon": "/assets/favicon_1784469696333.ico",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/kimi-ai.png",
               "useDefaultIcon": false,
               "enabled": true
             },
