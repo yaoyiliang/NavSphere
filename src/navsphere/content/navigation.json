@@ -255,7 +255,8 @@
               "title": "Grok",
               "href": "https://grok.com/",
               "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.webp",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/grok-dark.png",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
