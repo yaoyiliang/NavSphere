@@ -120,26 +120,7 @@
       "icon": "Briefcase",
       "description": "YYLang的自建服务",
       "enabled": true,
-      "items": [
-        {
-          "id": "1784470419135",
-          "title": "Lucky",
-          "href": "https://fn.560906.xyz:16601/yylang_ph",
-          "description": "YYLang的飞牛上部署的Lucky",
-          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/lucky-1.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1784471171168",
-          "title": "Icon Station",
-          "href": "https://icon.fn.560906.xyz:16666/",
-          "description": "YYLang的图标库",
-          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/IconStation.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "c6a751a6-c2fb-4f15-898e-bbf1dad2a6eb",
@@ -154,6 +135,24 @@
               "href": "https://fn.560906.xyz:16666/",
               "description": "YYLang的飞牛",
               "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/feiniu-fnos-1.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1784470419135",
+              "title": "Lucky",
+              "href": "https://fn.560906.xyz:16601/yylang_ph",
+              "description": "YYLang的飞牛上部署的Lucky",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/lucky-1.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1784471171168",
+              "title": "Icon Station",
+              "href": "https://icon.fn.560906.xyz:16666/",
+              "description": "YYLang的图标库",
+              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/IconStation.png",
               "useDefaultIcon": false,
               "enabled": true
             }
