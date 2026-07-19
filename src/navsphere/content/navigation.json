@@ -164,7 +164,17 @@
           "icon": "Box",
           "description": "VPS服务器上部署的各种服务",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1784471772426",
+              "title": "Sub Store",
+              "href": "https://sub.560906.xyz/subs?api=https://sub.560906.xyz/UMpjm6pRYW8QZWV9n3bq",
+              "description": "YYLang的Sub Store",
+              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/substore.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     },
