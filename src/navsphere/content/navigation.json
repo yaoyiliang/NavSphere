@@ -211,6 +211,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "10b744db-bfff-4e2b-a600-b47bbcf8c9ae",
+          "title": "科学上网",
+          "icon": "Link",
+          "description": "🪜",
+          "enabled": true,
+          "items": []
         }
       ]
     },
