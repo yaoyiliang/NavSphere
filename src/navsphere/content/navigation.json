@@ -138,6 +138,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/lucky-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784471171168",
+          "title": "Icon Station「",
+          "href": "https://icon.fn.560906.xyz:16666/",
+          "description": "YYLang的图标库",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/IconStation.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
