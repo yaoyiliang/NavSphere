@@ -1557,6 +1557,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1784470309621",
+      "title": "NAS服务",
+      "icon": "Briefcase",
+      "description": "YYLang的飞牛",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
