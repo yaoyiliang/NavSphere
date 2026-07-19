@@ -149,7 +149,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "c6a751a6-c2fb-4f15-898e-bbf1dad2a6eb",
+          "title": "NAS服务",
+          "icon": "Box",
+          "description": "NAS上的自建服务",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "9",
