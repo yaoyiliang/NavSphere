@@ -108,14 +108,6 @@
           "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
           "icon": "/assets/favicon_1765279307988.svg",
           "enabled": true
-        },
-        {
-          "id": "item-1765687115114",
-          "enabled": true,
-          "title": "PageSpeed Insights",
-          "href": "https://pagespeed.web.dev/",
-          "description": "",
-          "icon": "/assets/favicon_1765687105275.webp"
         }
       ],
       "subCategories": [],
