@@ -115,6 +115,15 @@
       "enabled": true
     },
     {
+      "id": "1784470309621",
+      "title": "NAS服务",
+      "icon": "Briefcase",
+      "description": "YYLang的飞牛",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI站点",
       "icon": "Brain",
@@ -1557,15 +1566,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1784470309621",
-      "title": "NAS服务",
-      "icon": "Briefcase",
-      "description": "YYLang的飞牛",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
