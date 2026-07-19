@@ -175,15 +175,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1784471772426",
-              "title": "Sub Store",
-              "href": "https://sub.560906.xyz/subs?api=https://sub.560906.xyz/UMpjm6pRYW8QZWV9n3bq",
-              "description": "YYLang的Sub Store",
-              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/substore.png",
-              "useDefaultIcon": false,
-              "enabled": true
-            },
-            {
               "id": "1784472983767",
               "title": "1Panel",
               "href": "http://4.194.42.185:30430/a024fd40a0",
@@ -200,6 +191,24 @@
               "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/azure-1.png",
               "useDefaultIcon": false,
               "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "10b744db-bfff-4e2b-a600-b47bbcf8c9ae",
+          "title": "科学上网",
+          "icon": "Link",
+          "description": "🪜",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1784471772426",
+              "title": "Sub Store",
+              "href": "https://sub.560906.xyz/subs?api=https://sub.560906.xyz/UMpjm6pRYW8QZWV9n3bq",
+              "description": "YYLang的Sub Store",
+              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/substore.png",
+              "useDefaultIcon": false,
+              "enabled": true
             },
             {
               "id": "1784473275294",
@@ -211,14 +220,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "10b744db-bfff-4e2b-a600-b47bbcf8c9ae",
-          "title": "科学上网",
-          "icon": "Link",
-          "description": "🪜",
-          "enabled": true,
-          "items": []
         }
       ]
     },
