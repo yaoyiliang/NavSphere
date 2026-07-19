@@ -225,9 +225,9 @@
             },
             {
               "id": "1784465512708",
-              "title": "chat.deepseek.com",
+              "title": "Deepseek",
               "href": "https://chat.deepseek.com/",
-              "description": "",
+              "description": "Deepseek",
               "icon": "/assets/favicon_1784465533524.png",
               "useDefaultIcon": false,
               "enabled": true
