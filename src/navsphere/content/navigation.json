@@ -155,6 +155,15 @@
               "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/IconStation.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1784473172413",
+              "title": "Nexus Terminal",
+              "href": "https://terminal.fn.560906.xyz:16666/",
+              "description": "NAS部署的Nexus Terminal网页版终端",
+              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/Nexus-Terminal.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
