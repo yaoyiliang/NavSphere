@@ -43,11 +43,59 @@
       "icon": "Star",
       "items": [
         {
+          "id": "1_2",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.webp",
+          "enabled": true
+        },
+        {
+          "id": "1_3",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com/",
+          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+          "icon": "/assets/images/logos/cloudflar.webp",
+          "enabled": true
+        },
+        {
+          "id": "1_1",
+          "title": "Google Analytics",
+          "href": "https://analytics.google.com/",
+          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
+          "icon": "/assets/images/logos/analytics.webp",
+          "enabled": true
+        },
+        {
+          "id": "1_4",
+          "title": "Google AdSense",
+          "href": "https://www.google.com/adsense/",
+          "description": "Google AdSense广告服务。",
+          "icon": "/assets/images/logos/gads.webp",
+          "enabled": true
+        },
+        {
           "id": "1_5",
           "title": "Producthunt",
           "href": "https://www.producthunt.com/",
           "description": "发现新鲜有趣的产品",
           "icon": "/assets/images/logos/producthunt.webp",
+          "enabled": true
+        },
+        {
+          "id": "1_6",
+          "title": "Leonardo.AI",
+          "href": "https://app.leonardo.ai/",
+          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
+          "icon": "/assets/images/logos/leonardo.webp",
+          "enabled": true
+        },
+        {
+          "id": "1_7",
+          "title": "Tensor.art",
+          "href": "https://tensor.art/",
+          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
+          "icon": "/assets/images/logos/tensorart.webp",
           "enabled": true
         },
         {
@@ -59,11 +107,35 @@
           "enabled": true
         },
         {
+          "id": "1741747111596",
+          "title": "PostSpark",
+          "href": "https://postspark.app/",
+          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
+          "icon": "/assets/img_1741747241014.webp",
+          "enabled": true
+        },
+        {
+          "id": "1754229699374",
+          "title": "Lucide",
+          "href": "https://lucide.dev/",
+          "description": "Beautiful & consistent icon toolkit made by the community.",
+          "icon": "/assets/favicon_1754229702059.webp",
+          "enabled": true
+        },
+        {
           "id": "1761724833829",
           "title": "Hacker News",
           "href": "https://news.ycombinator.com/",
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
+          "enabled": true
+        },
+        {
+          "id": "1764304637626",
+          "title": "Google 云端硬盘",
+          "href": "https://drive.google.com/",
+          "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
+          "icon": "/assets/favicon_1764304640963.webp",
           "enabled": true
         },
         {
@@ -1641,6 +1713,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1784865657261",
+      "title": "其他收藏",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
