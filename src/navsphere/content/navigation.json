@@ -1262,7 +1262,17 @@
       "icon": "Network",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784869146291",
+          "title": "OpenList",
+          "href": "https://openlist.fn.560906.xyz:16666/",
+          "description": "YYLang的自建Openlist",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/openlist-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
