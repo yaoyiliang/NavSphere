@@ -1455,6 +1455,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/产品/仁魔.jpg?token=e10511496a61fc9fa8b6107c342b83b268deeada3c8bdf5be9d4658b81fe860c",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784873933739",
+          "title": "京东京造网页驱动",
+          "href": "https://wukong.jd.com/#/mouse/key",
+          "description": "京东京造网页驱动",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/公司/京东京造.webp?token=e10511496a61fc9fa8b6107c342b83b268deeada3c8bdf5be9d4658b81fe860c",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
