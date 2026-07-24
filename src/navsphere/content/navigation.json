@@ -46,8 +46,8 @@
           "id": "1784866964328",
           "title": "NavSphere后台管理",
           "href": "https://navsphere.560906.xyz/admin",
-          "description": "A modern navigation platform",
-          "icon": "https://navsphere.560906.xyz/favicon.ico",
+          "description": "NavSphere后台管理",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/Navsphere.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
         }
