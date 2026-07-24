@@ -293,6 +293,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/bilibili-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784866089712",
+          "title": "MoviePilot",
+          "href": "https://moviepilot.fn.560906.xyz:16666/",
+          "description": "MoviePilot - 智能影视媒体库管理工具",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/movie-pilot-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
