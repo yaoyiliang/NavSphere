@@ -1400,7 +1400,17 @@
       "icon": "Mail",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784873325560",
+          "title": "Gmail",
+          "href": "https://gmail.com/",
+          "description": "Gmail",
+          "icon": "https://s3.macosicons.com/macosicons/icons/JrTBkHwWXN/lowResPngFile_e30d7bba48a13f3390039b58101c9d12_low_res_Gmail.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
