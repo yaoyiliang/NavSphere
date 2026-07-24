@@ -41,7 +41,17 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "1784866964328",
+          "title": "NavSphere后台管理",
+          "href": "https://navsphere.560906.xyz/admin",
+          "description": "A modern navigation platform",
+          "icon": "https://navsphere.560906.xyz/favicon.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
