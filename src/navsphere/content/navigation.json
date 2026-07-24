@@ -1830,6 +1830,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1784869123332",
+      "title": "下载&网盘",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
