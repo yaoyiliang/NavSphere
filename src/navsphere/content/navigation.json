@@ -1239,6 +1239,15 @@
       ]
     },
     {
+      "id": "1784868966919",
+      "title": "资源&游戏",
+      "icon": "Briefcase",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1820,15 +1829,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1784868966919",
-      "title": "资源&游戏",
-      "icon": "Briefcase",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
