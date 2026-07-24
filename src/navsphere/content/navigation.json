@@ -1271,6 +1271,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/openlist-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784869230880",
+          "title": "qBittorrent WebUI",
+          "href": "https://qbit.fn.560906.xyz:16666/",
+          "description": "YYLang的自建qBittorrent",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/qbittorrent-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
