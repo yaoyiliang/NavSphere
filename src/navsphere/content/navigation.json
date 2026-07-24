@@ -160,6 +160,15 @@
               "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/Subboost.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1784869474952",
+              "title": "南山ImmortalWRT",
+              "href": "https://op.fn.560906.xyz:16666/",
+              "description": "南山ImmortalWRT",
+              "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/openwrt-1.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
