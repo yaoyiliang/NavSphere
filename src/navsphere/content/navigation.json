@@ -1257,6 +1257,15 @@
       "subCategories": []
     },
     {
+      "id": "1784869123332",
+      "title": "下载&网盘",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1830,15 +1839,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1784869123332",
-      "title": "下载&网盘",
-      "icon": "Network",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
