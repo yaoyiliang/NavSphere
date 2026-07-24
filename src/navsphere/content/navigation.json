@@ -263,6 +263,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/android-chrome-512x512.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784868615766",
+          "title": "Idcflare",
+          "href": "https://idcflare.com/top",
+          "description": "LinuxDo旗下🪜论坛",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/idcflare.webp?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
