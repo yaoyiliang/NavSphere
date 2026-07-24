@@ -1756,6 +1756,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1784868498457",
+      "title": "技术论坛",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
