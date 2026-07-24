@@ -275,6 +275,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/飞牛影视.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784865994410",
+          "title": "YouTube",
+          "href": "https://youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/youtube-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
