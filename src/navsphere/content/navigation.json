@@ -1289,7 +1289,17 @@
       "icon": "Briefcase",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784873069409",
+          "title": "小刀娱乐网",
+          "href": "https://x6d.com/",
+          "description": "小刀娱乐网 - 活动线报、绿色软件、教程资源分享",
+          "icon": "/assets/favicon_1784873071953.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
