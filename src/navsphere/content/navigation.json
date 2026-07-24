@@ -41,16 +41,7 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [
-        {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "",
       "enabled": true
@@ -568,6 +559,15 @@
               "href": "https://www.newkit.site/",
               "description": "NewKit 提供精选的在线实用工具，JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
               "icon": "/assets/favicon_1765279307988.svg",
+              "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "id": "1735119857233",
+              "title": "截图美化工具",
+              "href": "https://shots.so/",
+              "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
+              "icon": "/assets/images/logos/shots.webp",
               "useDefaultIcon": false,
               "enabled": true
             }
