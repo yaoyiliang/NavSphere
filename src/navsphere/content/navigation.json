@@ -1298,6 +1298,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/小刀娱乐.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784873207771",
+          "title": "果核剥壳",
+          "href": "https://www.ghpym.com/",
+          "description": "果核剥壳",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/果核剥壳.jpeg?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
