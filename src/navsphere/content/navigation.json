@@ -281,6 +281,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/linuxdo.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784868741844",
+          "title": "Arch Linux 中文论坛",
+          "href": "https://forum.archlinuxcn.org/",
+          "description": "Arch中国论坛",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/arch-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
