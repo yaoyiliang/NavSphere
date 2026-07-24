@@ -24,6 +24,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/baidu-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784865313246",
+          "title": "Microsoft 必应",
+          "href": "https://www.bing.com",
+          "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/bing.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
