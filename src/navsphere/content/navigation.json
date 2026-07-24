@@ -169,6 +169,15 @@
               "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/openwrt-1.png",
               "useDefaultIcon": false,
               "enabled": true
+            },
+            {
+              "id": "1784869564409",
+              "title": "Daed-南山内网",
+              "href": "http://192.168.1.1:2023/",
+              "description": "Daed-南山内网",
+              "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/daed.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         }
