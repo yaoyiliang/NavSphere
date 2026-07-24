@@ -326,7 +326,7 @@
           "id": "1784866308344",
           "title": "Audiobookshelf",
           "href": "https://audiobookshelf.fn.560906.xyz:16666/",
-          "description": "",
+          "description": "YYLang的自建Audiobookshelf",
           "icon": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/audiobook-shelf-1.png",
           "useDefaultIcon": false,
           "enabled": true
