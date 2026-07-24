@@ -1759,6 +1759,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1784866208777",
+      "title": "资料&学习",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
