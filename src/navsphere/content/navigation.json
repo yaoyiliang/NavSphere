@@ -254,7 +254,17 @@
       "icon": "Coffee",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784868522405",
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "最好的🪜论坛",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/android-chrome-512x512.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
