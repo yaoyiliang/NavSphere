@@ -262,6 +262,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/booklogr-light.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784872927973",
+          "title": "Wikipedia",
+          "href": "https://www.wikipedia.org/",
+          "description": "维基百科",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/wikipedia-light.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
