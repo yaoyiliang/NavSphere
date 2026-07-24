@@ -1418,6 +1418,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/QQ邮箱.jpg?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784873409263",
+          "title": "哈工大邮箱",
+          "href": "https://mail.hit.edu.cn/",
+          "description": "哈工大邮箱",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/校徽/哈工大.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
