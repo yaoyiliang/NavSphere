@@ -266,7 +266,17 @@
       "icon": "Video",
       "description": "影音娱乐相关",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784865906560",
+          "title": "飞牛影视",
+          "href": "https://fn.560906.xyz:16666/v/login",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fn.560906.xyz",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
