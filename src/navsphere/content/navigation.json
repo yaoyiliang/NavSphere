@@ -1395,6 +1395,15 @@
       "subCategories": []
     },
     {
+      "id": "1784873307390",
+      "title": "邮箱相关",
+      "icon": "Mail",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1968,15 +1977,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1784873307390",
-      "title": "邮箱相关",
-      "icon": "Mail",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
