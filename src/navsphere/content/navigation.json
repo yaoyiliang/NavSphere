@@ -152,52 +152,6 @@
       "enabled": true
     },
     {
-      "id": "1784473536097",
-      "title": "影音娱乐",
-      "icon": "Video",
-      "description": "影音娱乐相关",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1784865906560",
-          "title": "飞牛影视",
-          "href": "https://fn.560906.xyz:16666/v/login",
-          "description": "",
-          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/飞牛影视.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1784865994410",
-          "title": "YouTube",
-          "href": "https://youtube.com/",
-          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
-          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/youtube-1.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1784866036201",
-          "title": "Bilibili",
-          "href": "https://bilibili.com/",
-          "description": "访问 bilibili.com",
-          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/bilibili-1.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1784866089712",
-          "title": "MoviePilot",
-          "href": "https://moviepilot.fn.560906.xyz:16666/",
-          "description": "MoviePilot - 智能影视媒体库管理工具",
-          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/movie-pilot-1.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1784470309621",
       "title": "自建服务",
       "icon": "Briefcase",
@@ -337,6 +291,52 @@
           "href": "https://talebook.fn.560906.xyz:16666/",
           "description": "YYLang的自建Talebook电子书库",
           "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/booklogr-light.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1784473536097",
+      "title": "影音娱乐",
+      "icon": "Video",
+      "description": "影音娱乐相关",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1784865906560",
+          "title": "飞牛影视",
+          "href": "https://fn.560906.xyz:16666/v/login",
+          "description": "",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/服务/飞牛影视.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1784865994410",
+          "title": "YouTube",
+          "href": "https://youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/youtube-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1784866036201",
+          "title": "Bilibili",
+          "href": "https://bilibili.com/",
+          "description": "访问 bilibili.com",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/bilibili-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1784866089712",
+          "title": "MoviePilot",
+          "href": "https://moviepilot.fn.560906.xyz:16666/",
+          "description": "MoviePilot - 智能影视媒体库管理工具",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/movie-pilot-1.png",
           "useDefaultIcon": false,
           "enabled": true
         }
