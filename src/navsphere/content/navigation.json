@@ -1968,6 +1968,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1784873307390",
+      "title": "邮箱相关",
+      "icon": "Mail",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
