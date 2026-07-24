@@ -307,6 +307,15 @@
       "subCategories": []
     },
     {
+      "id": "1784866208777",
+      "title": "资料&学习",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI站点",
       "icon": "Brain",
@@ -1755,15 +1764,6 @@
       "id": "1784865657261",
       "title": "其他收藏",
       "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1784866208777",
-      "title": "资料&学习",
-      "icon": "Brain",
       "description": "",
       "enabled": true,
       "items": [],
