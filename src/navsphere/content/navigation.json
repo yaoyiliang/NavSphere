@@ -284,6 +284,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/youtube-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784866036201",
+          "title": "Bilibili",
+          "href": "https://bilibili.com/",
+          "description": "访问 bilibili.com",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/bilibili-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
