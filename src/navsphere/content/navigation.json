@@ -299,6 +299,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/V2EX.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784868840170",
+          "title": "Chiphell",
+          "href": "https://www.chiphell.com/",
+          "description": "chiphell",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/Chiphell.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
