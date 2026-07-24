@@ -203,6 +203,15 @@
       "subCategories": []
     },
     {
+      "id": "1784868498457",
+      "title": "技术论坛",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1784473536097",
       "title": "影音娱乐",
       "icon": "Video",
@@ -1755,15 +1764,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1784868498457",
-      "title": "技术论坛",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
