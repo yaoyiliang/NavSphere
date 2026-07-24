@@ -312,7 +312,17 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784866231246",
+          "title": "Trilium",
+          "href": "https://trilium.fn.560906.xyz:16666/",
+          "description": "访问 trilium.fn.560906.xyz",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/trilium-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
