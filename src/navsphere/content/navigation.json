@@ -330,6 +330,15 @@
           "icon": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/audiobook-shelf-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784866373755",
+          "title": "PoxenStudio | MyBooks",
+          "href": "https://talebook.fn.560906.xyz:16666/",
+          "description": "这是一个基于poxenstudio/mybooks搭建的个人电子书库，管理和阅读Epub/Mobi/Pdf/Azw3等格式的电子书，也支持下载或推送到阅读设备里。",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/booklogr-light.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
