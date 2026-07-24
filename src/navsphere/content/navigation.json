@@ -166,52 +166,6 @@
       ]
     },
     {
-      "id": "1784866208777",
-      "title": "资料&学习",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1784866231246",
-          "title": "Trilium",
-          "href": "https://trilium.fn.560906.xyz:16666/",
-          "description": "YYLang的自建Trillium笔记",
-          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/trilium-1.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1784866308344",
-          "title": "Audiobookshelf",
-          "href": "https://audiobookshelf.fn.560906.xyz:16666/",
-          "description": "YYLang的自建Audiobookshelf",
-          "icon": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/audiobook-shelf-1.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1784866373755",
-          "title": "Talebook",
-          "href": "https://talebook.fn.560906.xyz:16666/",
-          "description": "YYLang的自建Talebook电子书库",
-          "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/booklogr-light.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1784868498457",
-      "title": "技术论坛",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1784473536097",
       "title": "影音娱乐",
       "icon": "Video",
@@ -255,6 +209,52 @@
           "enabled": true
         }
       ],
+      "subCategories": []
+    },
+    {
+      "id": "1784866208777",
+      "title": "资料&学习",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1784866231246",
+          "title": "Trilium",
+          "href": "https://trilium.fn.560906.xyz:16666/",
+          "description": "YYLang的自建Trillium笔记",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/trilium-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1784866308344",
+          "title": "Audiobookshelf",
+          "href": "https://audiobookshelf.fn.560906.xyz:16666/",
+          "description": "YYLang的自建Audiobookshelf",
+          "icon": "https://raw.githubusercontent.com/xushier/HD-Icons/main/circle/audiobook-shelf-1.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
+          "id": "1784866373755",
+          "title": "Talebook",
+          "href": "https://talebook.fn.560906.xyz:16666/",
+          "description": "YYLang的自建Talebook电子书库",
+          "icon": "https://ghfast.top/raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/booklogr-light.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1784868498457",
+      "title": "技术论坛",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     },
     {
