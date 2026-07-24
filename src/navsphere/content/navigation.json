@@ -6,7 +6,17 @@
       "icon": "Search",
       "description": "searching",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784865107681",
+          "title": "Google",
+          "href": "https://www.google.com",
+          "description": "访问 google.com",
+          "icon": "/assets/favicon_1784865115115.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
