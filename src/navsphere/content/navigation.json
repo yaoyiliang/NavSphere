@@ -1326,6 +1326,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/公司/ubtech-robotics.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1784870531194",
+          "title": "uGot文档",
+          "href": "https://docs.ubtrobot.com/ugot/#/",
+          "description": "uGot文档",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/产品/uGot.webp?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
