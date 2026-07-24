@@ -308,6 +308,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/Chiphell.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1761725058490",
+          "title": "Reddit",
+          "href": "https://www.reddit.com/",
+          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+          "icon": "/assets/favicon_1761725100238.webp",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -1268,14 +1277,6 @@
           "href": "https://www.producthunt.com/",
           "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone&#x27;s talking about.",
           "icon": "/assets/favicon_1761725042705.webp",
-          "enabled": true
-        },
-        {
-          "id": "1761725058490",
-          "title": "Reddit",
-          "href": "https://www.reddit.com/",
-          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-          "icon": "/assets/favicon_1761725100238.webp",
           "enabled": true
         }
       ],
