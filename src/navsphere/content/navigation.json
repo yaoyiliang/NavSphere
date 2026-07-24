@@ -1308,7 +1308,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1784870049425",
+          "title": "uCode4",
+          "href": "https://ucode4.ubtrobot.com/",
+          "description": "uCode4",
+          "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/产品/uCode.png?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
