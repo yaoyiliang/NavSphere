@@ -1663,6 +1663,15 @@
               "description": "Simple line Icons pack",
               "icon": "/assets/images/logos/simplelineicons.webp",
               "enabled": true
+            },
+            {
+              "id": "1786419330825",
+              "title": "Favicon.im: 即时网站图标获取器",
+              "href": "https://favicon.im/zh/",
+              "description": "即时获取、显示和下载任何网站的图标。为开发者提供简单、快速、免费的图标API。",
+              "icon": "/assets/favicon_1786419334749.png",
+              "useDefaultIcon": false,
+              "enabled": true
             }
           ]
         },
