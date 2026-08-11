@@ -1666,10 +1666,10 @@
             },
             {
               "id": "1786419330825",
-              "title": "Favicon.im: 即时网站图标获取器",
+              "title": "Favicon.im",
               "href": "https://favicon.im/zh/",
               "description": "即时获取、显示和下载任何网站的图标。为开发者提供简单、快速、免费的图标API。",
-              "icon": "/assets/favicon_1786419334749.png",
+              "icon": "https://a.favicon.im/favicon.im?larger=true",
               "useDefaultIcon": false,
               "enabled": true
             }
