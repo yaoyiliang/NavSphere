@@ -381,6 +381,15 @@
           "icon": "https://icon.fn.560906.xyz:16666/deskdata/user_icon/网站/果核剥壳.jpeg?token=c2943b1fa495392541b9129a6e27edfb194ad55ab358baf198a7a063d40835f8",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1786418124852",
+          "title": "Switch520-Gamer520",
+          "href": "https://www.gamer520.com",
+          "description": "switch520,switch游戏下载,PC游戏下载,PC破解游戏下载,Gamer520",
+          "icon": "<img src=\"https://a.favicon.im/www.gamer520.com\" alt=\"www.gamer520.com favicon\" loading=\"lazy\" />",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
