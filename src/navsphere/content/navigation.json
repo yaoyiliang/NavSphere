@@ -234,6 +234,15 @@
           "icon": "https://ghfast.top/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/movie-pilot-1.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1789353126075",
+          "title": "YYLang的Songloft曲库",
+          "href": "https://songloft.fn.560906.xyz:16666",
+          "description": "Songloft - 跨平台音乐播放器",
+          "icon": "https://github.com/songloft-org/songloft/blob/main/docs/public/logo.png?raw=true",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
